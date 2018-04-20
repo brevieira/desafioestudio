@@ -1,0 +1,38 @@
+.home{
+	display:flex;
+	justify-content:space-around;
+	flex-direction: row;
+}
+.home2{
+color: #82CA9C;
+}
+.home3{
+	color: #82CA9C;
+	border-radius:10%;
+}
+.homepg{
+	color:#ffffff;
+	background:url(/home/vai-na-web-05/Documentos/brevieira/imagens/homebg.jpg);
+  height: 600px;
+	display:flex;
+	justify-content: center;
+	align-items:center; 
+	flex-direction: column;
+}
+.feature-2{
+	display:flex;
+	justify-content:space-around;
+	align-items: center;
+	flex-direction: row;
+}
+.para{
+	display:flex;
+	flex-direction:column;
+
+}
+.feature-3{
+display:flex;
+justify-content:space-around;
+align-items:center;
+flex-direction:row-reverse;
+}
